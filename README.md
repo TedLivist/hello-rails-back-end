@@ -2,7 +2,7 @@
 
 # Hello World with two apps: Rails Backend
 
-> This app provides an API endpoint for a randomly generated greeting. It also has two ends: the backend and the front end. The backend is set up with Rails and the front end is set up with React. Both are independent of each other.
+> This app provides an API endpoint for a randomly generated greeting. It was built in tandem with another React application
 
 ## Built With
 
