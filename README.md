@@ -28,7 +28,7 @@
 - Run `rails db:migrate` to run migrations
 - Run `rails db:seed` to populate database with pre-defined seed data
 - Run `rails s` to start the application
-- Visit `localhost:3000/api/v1/greeting` to view endpoint
+- Visit the `/api/v1/greeting` to view endpoint
 
 ### Usage
 This app was built in tandem with another React application. The React is used to make API request to the endpoint provided in this application. The link to the React repo can be found [here](https://github.com/TedLivist/hello-react-front-end)
