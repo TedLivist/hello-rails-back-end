@@ -33,7 +33,7 @@
 ### Usage
 This app was built in tandem with another React application. The React is used to make API request to the endpoint provided in this application. The link to the React repo can be found [here](https://github.com/TedLivist/hello-react-front-end)
 - Make sure to run this Rails application before running the React app so that it takes up the **3000** port while the React app takes up the **3001** port. This is important for the API call to work
-- On the other hand, you can run the React app before the Rails one provided you provide a different port for the Rails app by running this command: `rails server -p <port number>` like so: `rails server -p 3001`. This would mean changing the API call URL to **3001**
+- On the other hand, you can run the React app before the Rails one provided you provide a different port for the Rails app by running this command: `rails server -p <port number>` like so: `rails server -p 3001`. This would mean changing the API call URL to **3001** in the React Application
 
 ## Author
 
